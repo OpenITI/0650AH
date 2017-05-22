@@ -1,43 +1,42 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: Shamela_0011746
-#NewRec# 000.BookURI	:: #0637.IbnMustafwi.TarikhIrbil
-#NewRec# 010.AuthorAKA	:: NODATA
-#NewRec# 010.AuthorNAME	:: المبارك بن أحمد بن المبارك بن موهوب اللخمي الإربلي، المعروف بابن المستوفي (المتوفى: 637هـ)
-#NewRec# 011.AuthorBORN	:: NOTGIVEN
-#NewRec# 011.AuthorDIED	:: 637
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: تاريخ إربل
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: التراجم والطبقات
-#NewRec# 022.BookVOLS	:: 2
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: NODATA
-#NewRec# 030.LibURI	:: Shamela_0011746
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-11746
-#NewRec# 031.LibURL	:: http://shamela.ws/index.php/book/11746
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: سامي بن سيد خماس الصقار
-#NewRec# 041.EdNUMBER	:: NODATA
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: وزارة الثقافة والإعلام، دار الرشيد للنشر، العراق
-#NewRec# 044.EdPLACE	:: NODATA
-#NewRec# 045.EdYEAR	:: 1980 م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: Shamela_0011746
+#META# 000.BookURI	:: #0637.IbnMustafwi.TarikhIrbil
+#META# 010.AuthorAKA	:: NODATA
+#META# 010.AuthorNAME	:: المبارك بن أحمد بن المبارك بن موهوب اللخمي الإربلي، المعروف بابن المستوفي (المتوفى: 637هـ)
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 637
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: تاريخ إربل
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: التراجم والطبقات
+#META# 022.BookVOLS	:: 2
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: NODATA
+#META# 030.LibURI	:: Shamela_0011746
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: http://shamela.ws/browse.php/book-11746
+#META# 031.LibURL	:: http://shamela.ws/index.php/book/11746
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: سامي بن سيد خماس الصقار
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: وزارة الثقافة والإعلام، دار الرشيد للنشر، العراق
+#META# 044.EdPLACE	:: NODATA
+#META# 045.EdYEAR	:: 1980 م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
-#####ARABICA#SUBJECT#XXX#
+#META#Header#End#
 # PageV00P000
 # أبو البركات شرف الدين مبارك بن أحمد بن مبارك بن موهوب بن غنيمة بن غالب
 ~~اللحمي الأربلي (564 ج 637 ه) .
