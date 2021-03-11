@@ -4,8 +4,12 @@
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: Cornelia Neubauer
-90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for a detailed report.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ANNOTATOR: Cornelia Neubauer, PV
+90#VERS#COMMENT##: The text was tagged before; no proper YML file yet.
+    See `README.md` for a detailed report.
+    PV removed editorial sections and tagged poetry. 
+    The text contains an appendix with a number of additional biographies 
+    from a different transmission of the text; 
+    PV placed that appendix in an ### |APPENDIX| tag. 
+90#VERS#DATE#####: 2021-03-11
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
