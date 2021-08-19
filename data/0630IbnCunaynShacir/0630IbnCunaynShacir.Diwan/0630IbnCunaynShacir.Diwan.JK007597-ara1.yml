@@ -1,10 +1,11 @@
 00#VERS#CLENGTH##: 73913
 00#VERS#LENGTH###: 17975
 00#VERS#URI######: 0630IbnCunaynShacir.Diwan.JK007597-ara1
-80#VERS#BASED####: http://www.worldcat.org/oclc/903585427
-80#VERS#COLLATED#: http://www.worldcat.org/oclc/903585427
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771257490
 80#VERS#LINKS####: https://archive.org/details/a1007n
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: I have cleaned up the text and formatted all the poetry. I compared this version with the published version by Mardam Bek, but they are in fact not exactly the same. The digital edition only preserves the poems themselves, in the same order as the printed edition, but leaves out all the contextual information and the subtitles of the work. By contrast the digital edition provides the meter for every poem, which is not given by the edition. The material left out is in fact very valuable information for correctly interpreting the poems, so a new edition is needed. 
+   NOTE OF THE REVIEWER (HRH): The difference between the PDF and the digital edition pointed out by the annotator is probably simply because the digital edition is based on an edition different from the edition of the PDF. It doesn’t seem logical that someone intentionally remove the contextual information and add the meter for poems. It seems more logical to be a different edition, especially because the page numbers in the PDF and the digital version are completely different. So, the text is complete as it is and I removed the MISSING_PARTS and NEW_EDITION_NEEDED labels added by the annotator. 2- There is nothing in the text that need to be tagged. However, the numbers of lines are situated at the end of previous lines. Maybe it’s not a bad idea to move them to the beginning of their own lines. This is not really a big deal, just to make the text of the best format possible. Maybe it’s possible to do it by RegEx.
 90#VERS#DATE#####: 2020-05-07
-90#VERS#ISSUES###: MISSING_PARTS, NEW_EDITION_NEEDED
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
