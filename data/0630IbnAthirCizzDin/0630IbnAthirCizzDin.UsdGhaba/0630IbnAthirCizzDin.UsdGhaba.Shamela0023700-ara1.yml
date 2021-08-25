@@ -6,5 +6,7 @@
 80#VERS#LINKS####: https://www.almeshkat.net/book/3209
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##:
+    NB: check lines of poetry that seem too short: line numbers 40260
+    NB: check lines of poetry that seem too long: line numbers 68159
 90#VERS#DATE#####: 2019-08-07
 90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS
