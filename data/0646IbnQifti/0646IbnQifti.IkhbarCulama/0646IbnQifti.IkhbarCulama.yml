@@ -1,7 +1,7 @@
-00#BOOK#URI######: 0637IbnMustafwi.TarikhIrbil
+00#BOOK#URI######: 0646IbnQifti.IkhbarCulama
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Tārīḫ Irbil
-10#BOOK#TITLEB#AR: Nabāhaŧ al-balad al-ḫāmil bi-man waradahu min al-amāṯil
+10#BOOK#TITLEA#AR: Iḫbār al-ʿulamāʾ bi-aḫbār al-ḥukamāʾ
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
