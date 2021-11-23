@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 1409091
-00#VERS#LENGTH###: 345463
+00#VERS#CLENGTH##: 383390
+00#VERS#LENGTH###: 95182
 00#VERS#URI######: 0637IbnMustawfi.TarikhIrbil.Shamela0011746-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770287462
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770287462
@@ -8,7 +8,7 @@
     use consistently)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): Editorial sections tagged and deleted. PARATEXT
+    NOTE OF THE REVIEWER (HRH): Editorial sections tagged and deleted. PARATEXT
     added. The number of name tags checked and corrected through Peter’s script.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: HTML_TAGS
