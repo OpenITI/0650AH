@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/862541896
 80#VERS#LINKS####: https://www.ajurry.com/vb/forum/منابر-المتون-العلمية-وشروحها/منبر-الحديث-وعلومه/30830-كتاب-مصور-حمل-مجموع-فيه-ثلاث-من-كتب-المشيخات-الحديثية-الشهوردي،ابن-مسلمة-الأموي،ابن-اللتي-البغدادي-ت-عامر-حسن-صبري?t=30010
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-16
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, PAGINATION
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

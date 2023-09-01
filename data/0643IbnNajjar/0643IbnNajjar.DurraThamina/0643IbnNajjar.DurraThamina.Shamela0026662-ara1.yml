@@ -4,8 +4,10 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770088573
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771240475
 80#VERS#LINKS####: https://ebook.univeyes.com/158817/pdf-الدرة-الثمينة-في-أخبار-
-    المدينة-لابن-النجار
+        المدينة-لابن-النجار
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##:
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-17
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

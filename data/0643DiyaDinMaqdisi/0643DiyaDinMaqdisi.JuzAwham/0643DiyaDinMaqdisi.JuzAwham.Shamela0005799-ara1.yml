@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://backend.ketabonline.com/media/pdf/4953/4953-1.pdf
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Find a manuscript of the text here:
-    https://www.alukah.net/manu/files/manuscript_4802/makhtotat.pdf
+        https://www.alukah.net/manu/files/manuscript_4802/makhtotat.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-18
-90#VERS#ISSUES###: PAGINATION, PARATEXT
+90#VERS#ISSUES###: PAGINATION, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION

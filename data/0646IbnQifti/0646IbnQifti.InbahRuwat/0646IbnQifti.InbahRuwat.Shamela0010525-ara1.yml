@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/140141_201809
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: A few of the names include subsections. I showed the subsections as paragraph with two asterisks (# **) so that they are distinguishable. 2- PageV02P044-45 are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-19
-90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PARATEXT, MISSING_PARTS
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PARATEXT, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

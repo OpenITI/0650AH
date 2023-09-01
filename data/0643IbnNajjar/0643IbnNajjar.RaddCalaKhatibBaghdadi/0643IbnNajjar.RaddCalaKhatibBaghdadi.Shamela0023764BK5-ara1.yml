@@ -6,15 +6,18 @@
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: The original text file Shamela0023764 contained more
-    than one text:
-    - A 0463KhatibBaghdadi.TarikhBaghdad (vols. 1-14)
-    - B 0748Dhahabi.MukhtasarMinDubaythi (vol. 15)
-    - C 0642IbnNajjar.DhaylTarikhBaghdad (vols. 16-20)
-    - D 0748IbnDimyati.Mustafad (vol. 21)
-    - E 0642IbnNajjar.RaddCalaKhatibBaghdadi (vol. 22)
-    - F indexes (vols. 23-24)
-    The text file was split into its constituent parts.
-    Pagination is only partially successfully implemented;
-    many PageV00P000 pages.
+        than one text:
+        - A 0463KhatibBaghdadi.TarikhBaghdad (vols. 1-14)
+        - B 0748Dhahabi.MukhtasarMinDubaythi (vol. 15)
+        - C 0642IbnNajjar.DhaylTarikhBaghdad (vols. 16-20)
+        - D 0748IbnDimyati.Mustafad (vol. 21)
+        - E 0642IbnNajjar.RaddCalaKhatibBaghdadi (vol. 22)
+        - F indexes (vols. 23-24)
+        The text file was split into its constituent parts.
+        Pagination is only partially successfully implemented;
+        many PageV00P000 pages.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-14
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://ebook.univeyes.com/160789/pdf-الخزل-و-الدأل-بين-الدور-و-الدارات-و-الديرة
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The tag ### $ is used as a simplified tag for toponyms. 2- Pages 45-46 of the PDF are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-15
-90#VERS#ISSUES###: MISSING_PARTS, PARATEXT
+90#VERS#ISSUES###: MISSING_PARTS, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION
