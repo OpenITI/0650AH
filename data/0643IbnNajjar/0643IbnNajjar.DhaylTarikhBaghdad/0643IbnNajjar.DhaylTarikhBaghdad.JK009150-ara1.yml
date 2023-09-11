@@ -9,7 +9,7 @@
     use consistently)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, README.md.
-    NOTE OF THE REVIEWER (HRH): PARATEXT added. 2. The pipelines inside the text
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. 2. The pipes inside the text
     representing the end of the lines in the PDF should be removed. 3. The
     information of the publisher in the METADATA section is wrong. It is published
     by “Dar al-Kitab al-‘Arabi”, not “Dar al-Kutub al-‘Ilmiyya” (which is accessible
@@ -18,5 +18,7 @@
     While the latter begins with the 16th volume, the former begins with the 15th
     volume. So, the volume numbers in the digital text should be reduced by one (the
     page numbers are correct).
+    PV replaced the pipes in the text that represent end of lines in the PDF
+    with actual end of lines + two tildes.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RANDOM_CHARS (pipelines)
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION, PAGE_NUMBERS
