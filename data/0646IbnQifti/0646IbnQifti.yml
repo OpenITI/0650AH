@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0646-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q2481432
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "D̲j̲amāl al-Dīn Abu ’l-Ḥasan ʿAlī b. Yūsuf b. Ibrāhīm b. ʿAbd al-Wāḥid al-S̲h̲aybānī , versatile Arab writer, born in 568/1172 at Ḳifṭ in Upper Egypt. He received his early education in Cairo and in 583/1187 went to Jerusalem, where his father had been appointed as deputy to the Ḳāḍī al-Fāḍil, the famous chancellor and adviser of Ṣalāḥ al-Dīn (Saladin)": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3258

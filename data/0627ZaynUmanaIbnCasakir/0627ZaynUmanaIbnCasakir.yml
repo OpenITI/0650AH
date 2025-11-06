@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0627ZaynUmanaIbnCasakir
 10#AUTH#ISM####AR: al-Ḥasan
 10#AUTH#KUNYA##AR: Abū al-Barakāt
-10#AUTH#LAQAB##AR: Zayn al-Umanāʾ 
+10#AUTH#LAQAB##AR: Zayn al-Umanāʾ
 10#AUTH#NASAB##AR: b. Muḥammad b. al-Ḥasan b. Hibaŧ Allāh Ibn ʿAsākir
 10#AUTH#NISBA##AR: al-Dimašqī
 10#AUTH#SHUHRA#AR: Zayn al-Umanāʾ Ibn ʿAsākir
@@ -13,10 +13,11 @@
 30#AUTH#DIED###AH: 627-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: 0570IbnCasakir
+70#AUTH#EXTID####: wikidata@Q115127823
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Pupil of his uncle (the author of the Tārīkh Dimashq).
-    EI2 s.v. "Ibn ʿAsākir": "appointed inspector of the Treasury and of 
-    the waḳfs in Damascus, then he devoted himself to asceticism 
-    and died in 627/1230, at the age of 93. 
-    He was buried by the side of his brother 
+    EI2 s.v. "Ibn ʿAsākir": "appointed inspector of the Treasury and of
+    the waḳfs in Damascus, then he devoted himself to asceticism
+    and died in 627/1230, at the age of 93.
+    He was buried by the side of his brother
     Fak̲h̲r al-Dīn (see Ibn Kat̲h̲īr, Bidāya , xiii, 127)."

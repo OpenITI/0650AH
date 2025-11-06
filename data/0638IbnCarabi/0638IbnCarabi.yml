@@ -17,5 +17,6 @@
 30#AUTH#DIED###AH: 0638-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q46420
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: EI2: "Muḥyi ’l-Dīn Abū ʿAbd Allāh Muḥammad b. ʿAlī b. Muḥammad b. al-ʿArabī al-Ḥātimī al-Ṭāʾī , known as al-S̲h̲ayk̲h̲ al-Akbar (560/1165-638/1240), was one of the greatest Ṣūfīs of Islam.": 
+90#AUTH#COMMENT##: EI2: "Muḥyi ’l-Dīn Abū ʿAbd Allāh Muḥammad b. ʿAlī b. Muḥammad b. al-ʿArabī al-Ḥātimī al-Ṭāʾī , known as al-S̲h̲ayk̲h̲ al-Akbar (560/1165-638/1240), was one of the greatest Ṣūfīs of Islam.":

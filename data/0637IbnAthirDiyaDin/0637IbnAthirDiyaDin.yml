@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0637-RA2-29
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q20605583
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI@: "DiYA' AL-DiN ABU 'L-FATH NASR ALLAH, born on Thursday, 20 Shacban 558/Wednesday, 24 July 1163 ...": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3094

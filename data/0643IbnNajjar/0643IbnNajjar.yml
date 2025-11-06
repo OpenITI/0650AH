@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0643-SHC-05
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q557961
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Muḥibb Allāh b. Maḥāsin al-Bag̲h̲dādī , historian and
     leading S̲h̲āfiʿī muḥaddit̲h̲ of his age, was born in Bag̲h̲dād in 578/1183.":
